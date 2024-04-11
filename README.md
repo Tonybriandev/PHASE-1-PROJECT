@@ -20,9 +20,9 @@ The application is all about Countries information that helps people get the bas
 The resources used in this project were;
 - REST COUNTRIES API
 
-### Contacts
+## Contacts
 - +254112779229
--Tonybrianmwenda@gmail.com
+- Tonybrianmwenda@gmail.com
 
 
 
