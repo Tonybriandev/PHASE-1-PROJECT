@@ -32,6 +32,13 @@ The resources used in this project were;
 
 REST COUNTRIES API
 
+CONTACTS
+
++254112779229
+
+Tonybrianmwenda@gmail.com
+
+
 
 
 
