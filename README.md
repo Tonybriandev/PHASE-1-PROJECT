@@ -8,8 +8,12 @@ PREVIEW OF MY PROJECT
 FEATURES OF MY PROJECT
 
 Search bar
+
 Search button
+
 Countries
+
 Currency
+
 Languages
 
