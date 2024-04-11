@@ -11,13 +11,10 @@ The application is all about Countries information that helps people get the bas
 - Currency
 - Languages
 
-##Technologies used in this project
-
-HTML
-
-CSS
-
-JAVASCRIPT
+## Technologies used in this project
+- HTML
+- CSS
+- JAVASCRIPT
 
 RESOURCES
 
