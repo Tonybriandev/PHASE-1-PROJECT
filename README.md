@@ -26,5 +26,12 @@ CSS
 
 JAVASCRIPT
 
+RESOURCES
+
+The resources used in this project were;
+REST COUNTRIES API
+
+
+
 
 
