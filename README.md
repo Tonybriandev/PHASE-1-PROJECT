@@ -16,17 +16,13 @@ The application is all about Countries information that helps people get the bas
 - CSS
 - JAVASCRIPT
 
-RESOURCES
-
+## Resources
 The resources used in this project were;
+- REST COUNTRIES API
 
-REST COUNTRIES API
-
-CONTACTS
-
-+254112779229
-
-Tonybrianmwenda@gmail.com
+### Contacts
+- +254112779229
+-Tonybrianmwenda@gmail.com
 
 
 
