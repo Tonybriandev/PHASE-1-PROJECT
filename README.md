@@ -17,3 +17,14 @@ Currency
 
 Languages
 
+
+TECHNOLOGIES USED IN THIS PROJECT
+
+HTML
+
+CSS
+
+JAVASCRIPT
+
+
+
